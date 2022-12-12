@@ -24,5 +24,5 @@ mer
 
 <details>
 <summary>Summary text.</summary>
-<code >Hello World, how is it going?</code>
+<code style="white-space:nowrap;">Hello World, how is it going?</code>
 </details>
