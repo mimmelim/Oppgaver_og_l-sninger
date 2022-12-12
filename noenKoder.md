@@ -19,3 +19,6 @@ hvordan sette inn linjeskift? --> to linjeskift, tror jeg
 
 lkjlkjj - jepp :)
 
+
+mer 
+
