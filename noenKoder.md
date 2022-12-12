@@ -15,3 +15,7 @@
 
 testeteste...
 hvaskjer nrå jeg skriver inn her??
+hvordan sette inn linjeskift? --> to linjeskift, tror jeg
+
+lkjlkjj - jepp :)
+
